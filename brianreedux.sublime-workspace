@@ -1,0 +1,1104 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"theme",
+				"themeSwap"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"variation",
+				"variationColors"
+			],
+			[
+				"create",
+				"createVariation"
+			],
+			[
+				"src",
+				"srcElement"
+			],
+			[
+				"parent",
+				"parentElement"
+			],
+			[
+				"menu",
+				"menuMarkup"
+			],
+			[
+				"set",
+				"setCurrentVariation"
+			],
+			[
+				"current",
+				"currentVariation"
+			],
+			[
+				"var",
+				"variations"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"buil",
+				"builderColumn"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"queryS",
+				"querySelector"
+			],
+			[
+				"builderCo",
+				"builderColumn__core"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"paneSwap",
+				"paneSwapArea"
+			],
+			[
+				"active",
+				"activeColor"
+			],
+			[
+				"paneData",
+				"paneDataObj"
+			],
+			[
+				"color",
+				"colorOptions"
+			],
+			[
+				"querySe",
+				"querySelector"
+			],
+			[
+				"querySelec",
+				"querySelectorAll"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"section",
+				"sectionName"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"def",
+				"default-gray"
+			],
+			[
+				"toggle",
+				"toggleTimer"
+			],
+			[
+				"pa",
+				"pauseNotes"
+			],
+			[
+				"addF",
+				"addFourths"
+			],
+			[
+				"drop",
+				"dropdown_classes"
+			],
+			[
+				"dropdown",
+				"dropdown_item"
+			],
+			[
+				"wid",
+				"widget_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 595,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/fonts.scss",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/variables.scss",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 3375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 933,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brianreed/Sites/brianreedux/js/main.coffee",
+		"/Users/brianreed/Sites/brianreedux/_layouts/default.html",
+		"/Users/brianreed/Sites/brianreedux/_includes/javascript.html",
+		"/Users/brianreed/Sites/brianreedux/_sass/variables.scss",
+		"/Users/brianreed/Sites/brianreedux/_sass/fonts.scss",
+		"/Users/brianreed/Sites/brianreedux/_sass/reset.scss",
+		"/Users/brianreed/Sites/brianreedux/_includes/head.html",
+		"/Users/brianreed/Sites/brianreedux/_config.yml",
+		"/Users/brianreed/Sites/brianreedux/500.md",
+		"/Users/brianreed/Sites/brianreedux/404.md",
+		"/Users/brianreed/Sites/brianreedux/.gitignore",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_fonts.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_onboarding.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_index.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_helpModal.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_grid.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_fakeBuilderPage.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/css/main.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_includes/fakeBuilderPage.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_variables.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/js/builder.coffee",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_splitTesting.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/index.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_config.yml",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_layouts/default.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_layouts/builder.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_layouts/sectionColumnControls.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_includes/javascript.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_includes/head.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_builder.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/_sass/_pageStylesPane.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/css/sectionColumnControls.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/split-testing-a/css/index.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/section-columns-a/css/sectionColumnControls.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/section-columns-a/_sass/_pageStylesPane.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/section-columns-a/index.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/leadpages-ux/_sass/_pageStylesPane.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/leadpages-ux/index.html",
+		"/Users/brianreed/Sites/leadpages-prototypes/leadpages-ux/_sass/_variables.scss",
+		"/Users/brianreed/Sites/leadpages-prototypes/leadpages-ux/builder-03-section-column-controls/index.html",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/widgetControls.html",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_fonts.scss",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_base.scss",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_section-column-controls.scss",
+		"/Users/brianreed/Sites/leadpages-ux/css/sectionColumnControls.scss",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/fakeBuilderPage.html",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_variables.scss",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/builderColumn__divider.html",
+		"/Users/brianreed/Sites/leadpages-ux/_layouts/default.html",
+		"/Users/brianreed/Sites/leadpages-ux/_layouts/sectionColumnControls.html",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/head.html",
+		"/Users/brianreed/Sites/leadpages-ux/css/onboarding.scss",
+		"/Users/brianreed/Sites/leadpages-ux/css/index.scss",
+		"/Users/brianreed/Sites/leadpages-ux/leadpages-onboarding/index.html",
+		"/Users/brianreed/Sites/leadpages-ux/index.html",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/javascript.html",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/widgetDivider.html",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/widget_controls.html",
+		"/Users/brianreed/Sites/leadpages-ux/css/main.scss",
+		"/Users/brianreed/Sites/leadpages-ux/js/onboarding.coffee",
+		"/Users/brianreed/Sites/leadpages-ux/js/main.coffee",
+		"/Users/brianreed/Sites/leadpages-ux/_config.yml",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_reset.scss",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_index.scss",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_onboarding.scss",
+		"/var/folders/2f/0pvdrlkj7j99b7yj71h47xvh0000gp/T/temp-123/Header Submenu@2x.png",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/header.html",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_iconFont.scss",
+		"/Users/brianreed/Sites/leadpages-ux/_sass/_grid.scss",
+		"/Users/brianreed/Sites/leadpages-ux/_includes/footer.html",
+		"/Users/brianreed/Sites/lp-ux/_layouts/default.html",
+		"/Users/brianreed/Sites/lp-ux/_config.yml",
+		"/Users/brianreed/Sites/lp-ux/_layouts/hero.html",
+		"/Users/brianreed/Sites/lp-ux/js/main.coffee",
+		"/Users/brianreed/Sites/lp-ux/test.html",
+		"/Users/brianreed/Sites/lp-ux/_includes/header.html",
+		"/Users/brianreed/Sites/lp-ux/_includes/head.html",
+		"/Users/brianreed/Sites/lp-ux/error.html",
+		"/Users/brianreed/Sites/lp-ux/.gitignore",
+		"/Users/brianreed/Sites/lp-ux/Gemfile",
+		"/Users/brianreed/Sites/lp-ux/gemfiles",
+		"/Users/brianreed/Sites/lp-ux/gemfile",
+		"/Users/brianreed/Sites/lp-ux/Gemfile.lock",
+		"/Users/brianreed/Sites/lp-ux/bower.json",
+		"/Users/brianreed/Sites/lp-ux/_layouts/page.html",
+		"/Users/brianreed/Sites/lp-ux/_includes/footer.html",
+		"/Users/brianreed/Sites/lp-ux/js",
+		"/Users/brianreed/Sites/lp-ux/_posts/2015-07-11-welcome-to-jekyll.markdown",
+		"/Users/brianreed/Sites/lp-ux/divshot.json",
+		"/Users/brianreed/Desktop/lpux.html",
+		"/Users/brianreed/Sites/norts/norts/scss/_norts.scss",
+		"/Users/brianreed/Sites/norts/norts/bower_components/font-awesome/scss/_variables.scss",
+		"/Users/brianreed/Sites/norts/norts/stylesheets/app.css",
+		"/Users/brianreed/Sites/norts/norts/scss/fontawesome/_font-awesome.scss",
+		"/Users/brianreed/Sites/norts/norts/scss/fontawesome/_variables.scss",
+		"/Users/brianreed/Sites/norts/norts/js/notes.js",
+		"/Users/brianreed/Sites/norts/norts/js/app.js",
+		"/Users/brianreed/Sites/norts/norts/scss/app.scss",
+		"/Users/brianreed/Sites/fe-superior/jspm_packages/bitbucket/leadbrite/fe-superior-widgets@develop/src/widgets/lp-countdown-timer/lp-countdown-timer.html",
+		"/Users/brianreed/Sites/fe-superior/config.js",
+		"/Users/brianreed/Sites/fe-superior/package.json",
+		"/Users/brianreed/Sites/fe-superior/src/elements/widget-options.html",
+		"/Users/brianreed/Sites/fe-superior/src/fields/link.html",
+		"/Users/brianreed/Sites/fe-superior/src/widgets/headline.html",
+		"/Users/brianreed/Sites/lp-builder3/app/views/widgets/_home.html.erb",
+		"/Users/brianreed/Sites/lp-builder3/app/views/widgets/index.html.erb",
+		"/Users/brianreed/Sites/lp-builder3/app/views/widgets/_theme.html.erb",
+		"/Users/brianreed/Sites/lp-builder3/app/views/widgets/_basic.html.erb",
+		"/Users/brianreed/Sites/lp-builder3/app/views/widgets/_media.html.erb",
+		"/Users/brianreed/Sites/lp-builder3/app/views/widgets/_dynamic_unit.html.erb",
+		"/Users/brianreed/Sites/lp-builder3/app/views/widgets/_page_section.html.erb",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/stylesheets/global.scss",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/stylesheets/application.css",
+		"/Users/brianreed/Sites/lp-builder3/app/controllers/widgets_controller.rb",
+		"/Users/brianreed/Sites/lp-builder3/config/routes.rb",
+		"/Users/brianreed/Sites/lp-builder3/Gemfile",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/javascripts/widgets.coffee",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/javascripts/widgets2.coffee",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/javascripts/application.js",
+		"/Users/brianreed/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/brianreed/Sites/lp-builder3/vendor/assets/stylesheets/tipsy.css",
+		"/Users/brianreed/Sites/lp-builder3/vendor/assets/javascripts/tipsy.js",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/stylesheets/global.css.scss",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/stylesheets/reset.scss",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/javascripts/welcome.coffee",
+		"/Users/brianreed/Sites/lp-builder3/app/assets/stylesheets/widgets.scss",
+		"/Users/brianreed/Sites/navigation-app/config.js",
+		"/Users/brianreed/Sites/navigation-app/jspm_packages/system.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"divider",
+			"roboto",
+			"splitTestButton",
+			"roboto",
+			"splitTestButton",
+			"0",
+			".variationSelector",
+			"initiateSplitTest",
+			"headerCo",
+			"setCurrentVariation",
+			"toggleVariationView",
+			"populateVariations",
+			"currentVariation",
+			"[]",
+			"variationsel",
+			"console",
+			"builderhead",
+			"toggleVariationView",
+			"variations",
+			"varactive",
+			"varActive",
+			".]widget",
+			".widget",
+			"fakeHeadline",
+			"button",
+			"for",
+			"for ",
+			"toggleOption",
+			"data",
+			"pageLayout",
+			"url",
+			"bindColumnStyleFunk",
+			"openSectionSettings",
+			"url",
+			"__name",
+			".stylesPane__option__name",
+			"markup:",
+			"console",
+			"resetColumnStyles",
+			"delete",
+			"console.d",
+			"open column",
+			"addsection",
+			"drag_handle",
+			"markup:",
+			"columnStylesContainer",
+			"styles",
+			"addColumn:",
+			"resetColumnStyles",
+			"addColumn:",
+			"resetColumnStyles",
+			"addColumn:",
+			"addColumn\n",
+			"addColumn",
+			"resetColumnStyles",
+			"addColumn",
+			"addColumn:",
+			"addcol",
+			"bind",
+			"bindCol",
+			"addColumn",
+			"closeSettingsPane",
+			"paneSwap",
+			"closeSettingsPane",
+			"paneSwap",
+			"bindColumnStyleFunk",
+			"addColumn",
+			"columnStylesContainer",
+			"addColumn",
+			"markup:",
+			"addColumn",
+			"resetColumnStyles",
+			"bindColumnStyleFunk",
+			"resetColumnStyles",
+			"columnStylesContainer",
+			"resetcolumns",
+			"bindColumnStyleFunk",
+			"columnstylemark",
+			"resetCol",
+			"resetColumns",
+			"bindColumnStyleFunk",
+			"resetColumns",
+			"resetCol",
+			"bindcolumnstyle",
+			"paneToggle",
+			"toggleSectionFromTrigger",
+			"resetcol",
+			"resetCol",
+			"resetColumns",
+			"bindColumnStyleFunk",
+			"paneswap",
+			"bindColumnStyleFunk",
+			"paneswap",
+			"bindColumnStyleFunk",
+			"columnstyles",
+			"stylesPane__option",
+			"sectiontrigger",
+			"columnstyles",
+			"console.d",
+			"toggleSectionFromTrigger",
+			"sectiontrigger",
+			"toggle",
+			"stylespane__option",
+			"stylesPane__option",
+			"pageStylesControl",
+			"sectionStyleHead__controls",
+			"dropdownIndicator",
+			"bindColumnStyleFunk",
+			"paneToggle",
+			"widget",
+			"fakeform",
+			"widgetControls__buttons",
+			"innerSpacing",
+			"Inner",
+			"inner",
+			"builderSection__core",
+			"builderSection",
+			"resetcol",
+			"addcolumn",
+			"delete col",
+			"resetcol",
+			"resetColumns",
+			"col1",
+			"sectionStyle",
+			"toggleSectionFromTrigger",
+			"sectionTrigger",
+			"image",
+			"toggleHelpModal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"->",
+			"editor_btn",
+			"widget_section"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 185.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/fonts.scss",
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_sass/variables.scss",
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								747
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_includes/head.html",
+					"settings":
+					{
+						"buffer_size": 3375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3050,
+								3366
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 219.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "css/main.scss",
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								577
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 415.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.93704054118,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"var",
+				"_sass/variables.scss"
+			],
+			[
+				"default",
+				"_layouts/default.html"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"def",
+				"_layouts/default.html"
+			],
+			[
+				"java",
+				"_includes/javascript.html"
+			],
+			[
+				"font",
+				"_sass/fonts.scss"
+			],
+			[
+				"vari",
+				"_sass/variables.scss"
+			],
+			[
+				"reset",
+				"_sass/reset.scss"
+			],
+			[
+				"main.c",
+				"js/main.coffee"
+			],
+			[
+				"base",
+				"_sass/_base.scss"
+			],
+			[
+				"fonts",
+				"_sass/_fonts.scss"
+			],
+			[
+				"fakeb",
+				"_includes/fakeBuilderPage.html"
+			],
+			[
+				"builder.c",
+				"js/builder.coffee"
+			],
+			[
+				"split",
+				"_sass/_splitTesting.scss"
+			],
+			[
+				"fake",
+				"_sass/_fakeBuilderPage.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"builder.s",
+				"_sass/_builder.scss"
+			],
+			[
+				"section",
+				"_layouts/sectionColumnControls.html"
+			],
+			[
+				"head.h",
+				"_includes/head.html"
+			],
+			[
+				"splittesting.",
+				"_sass/_splitTesting.scss"
+			],
+			[
+				"fireb",
+				"firebase.json"
+			],
+			[
+				"pagestylespane",
+				"_sass/_pageStylesPane.scss"
+			],
+			[
+				"pagestyles",
+				"_includes/pageStylesPane.html"
+			],
+			[
+				"iconvar",
+				"_sass/_iconVariables.scss"
+			],
+			[
+				"iconfon",
+				"_sass/_iconFont.scss"
+			],
+			[
+				"widget",
+				"_includes/widgetControls.html"
+			],
+			[
+				"javascript",
+				"_includes/javascript.html"
+			],
+			[
+				"builder",
+				"_includes/builderColumn__divider.html"
+			],
+			[
+				"main",
+				"css/main.scss"
+			],
+			[
+				"onboarding/in",
+				"leadpages-onboarding/index.html"
+			],
+			[
+				"onboarding/ind",
+				"leadpages-onboarding/index.html"
+			],
+			[
+				"header.h",
+				"_includes/header.html"
+			],
+			[
+				"icon",
+				"_sass/_iconFont.scss"
+			],
+			[
+				"iconfont",
+				"_sass/_iconFont.scss"
+			],
+			[
+				"head.",
+				"_includes/head.html"
+			],
+			[
+				"grid",
+				"_sass/_grid.scss"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"main.coff",
+				"js/main.coffee"
+			],
+			[
+				"head.ht",
+				"_includes/head.html"
+			],
+			[
+				"norts.s",
+				"scss/_norts.scss"
+			],
+			[
+				"app",
+				"scss/app.scss"
+			],
+			[
+				"pack",
+				"fe-superior/package.json"
+			],
+			[
+				"color.js",
+				"fe-superior/src/fields/color.js"
+			],
+			[
+				"boolean.js",
+				"fe-superior/src/fields/boolean.js"
+			],
+			[
+				"widgetoptions.j",
+				"fe-superior/src/elements/widget-options.js"
+			],
+			[
+				"widgetoptions.html",
+				"fe-superior/src/elements/widget-options.html"
+			],
+			[
+				"widgetoptions",
+				"fe-superior/src/elements/widget-options.html"
+			],
+			[
+				"select.htl",
+				"fe-superior/src/fields/select.html"
+			],
+			[
+				"select.j",
+				"fe-superior/src/fields/select.js"
+			],
+			[
+				"headline.h",
+				"fe-superior/src/widgets/headline.html"
+			],
+			[
+				"basic.h",
+				"app/views/widgets/_basic.html.erb"
+			],
+			[
+				"global.c",
+				"app/assets/stylesheets/global.scss"
+			],
+			[
+				"widget2",
+				"app/assets/javascripts/widgets2.coffee"
+			],
+			[
+				"widget.coff",
+				"app/assets/javascripts/widgets.coffee"
+			],
+			[
+				"widgetshelp",
+				"app/helpers/widgets_helper.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"widgetcont",
+				"app/controllers/widgets_controller.rb"
+			],
+			[
+				"application.c",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"tipsy.j",
+				"vendor/assets/javascripts/tipsy.js"
+			],
+			[
+				"global",
+				"app/assets/stylesheets/global.scss"
+			],
+			[
+				"application.j",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"widgets.coffe",
+				"app/assets/javascripts/widgets.coffee"
+			],
+			[
+				"widgets.css",
+				"app/assets/stylesheets/widgets.scss"
+			],
+			[
+				"widgets.c",
+				"app/assets/javascripts/widgets.coffee"
+			],
+			[
+				"system",
+				"jspm_packages/system.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}

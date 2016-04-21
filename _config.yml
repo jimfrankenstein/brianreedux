@@ -1,0 +1,33 @@
+# Site settings
+title: "Brian Reed | UX Designer & Developer, Musician, Ghostbuster"
+email: brian.reed.design@gmail.com
+description: "I specialize in responsive, interactive UX, utilizing the latest and greatest in front-end technology. I thrive on creativity and problem solving, bringing awesome solutions to awesome projects. I live, work, and play music in Minneapolis."
+keywords: "brian reed, front end developer, ux developer, ui developer, ux designer, ui designer, bass player, minneapolis, minnesota"
+baseurl: ""
+url: "https://brianreed.me" # the base hostname & protocol for your site
+
+# Social settings
+twitter_username: the_human_brian
+github_username:  jimfrankenstein
+twitter_url: "https://twitter.com/the_human_brian"
+soundcloud_url: "https://soundcloud.com/jimfrankenstein"
+codepen_url: "http://codepen.io/the_human_brian/"
+untapped_url: "https://untappd.com/user/jimfrankenstein"
+
+# Build settings
+markdown: kramdown
+permalink: /post/:title/
+image_path: "/images"
+logo_img: "logo.png"
+
+# Pagination
+paginate: 14
+paginate_path: "/page/:num"
+
+# Exclusions and Gems
+exclude:
+  - firebase.json
+  - brianreedux.sublime-project
+  - brianreedux.sublime-workspace
+
+gems: [octopress-autoprefixer,jekyll-coffeescript,jekyll-paginate]
