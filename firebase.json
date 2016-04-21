@@ -1,5 +1,6 @@
 {
-  "firebase": "brianreedux",
+  // "firebase": "brianreedux",
+  "firebase": "brianreedme",
   "public": "_site",
   "ignore": [
     "firebase.json",
