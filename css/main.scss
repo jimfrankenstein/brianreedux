@@ -5,7 +5,7 @@
 $image_path: '/images';
 
 // reset and libraries
-// 
+//
 @import "variables";
 @import "reset";
 @import "fonts";
@@ -16,7 +16,7 @@ body {
 }
 
 // intro section
-// 
+//
 
 .homeContainer {
   min-height: 100vh;
@@ -35,7 +35,7 @@ body {
 }
 
 // themes
-// 
+//
 
 body[data-theme="0"] {
   background: #fff;
@@ -43,21 +43,21 @@ body[data-theme="0"] {
 
   .divider { color: #ff7e00; }
 
-  .myName { color: #333; }
-  .myTitle { color: #a7a7a7; }
+  .myName { color: #000; }
+  .myTitle { color: #919191; }
 
-  h2 a:link { color: #777; }
-  h2 a:visited { color: #777; }
+  h2 a:link { color: #000; }
+  h2 a:visited { color: #000; }
 
   h2 a.myTwitter:hover { color: #55acee; }
   h2 a.myTwitter:active { color: #55acee; }
-  
-  h2 a.myCodePen:hover { color: #333; }
-  h2 a.myCodePen:active { color: #333; }
-  
-  h2 a.mySoundCloud:hover { color: #ff7e00; }
-  h2 a.mySoundCloud:active { color: #ff7e00; }
 
-  h2 a.myJob:hover { color: #0069ff; }
-  h2 a.myJob:active { color: #0069ff; }
+  h2 a.myCodePen:hover { color: #47cf73; }
+  h2 a.myCodePen:active { color: #47cf73; }
+
+  h2 a.myBandCamp:hover { color: #ff7e00; }
+  h2 a.myBandCamp:active { color: #ff7e00; }
+
+  h2 a.myJob:hover { color: #f224f2; }
+  h2 a.myJob:active { color: #f224f2; }
 }
